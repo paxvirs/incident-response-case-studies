@@ -28,25 +28,25 @@ Each case study follows a structured incident response methodology including:
 
 Brute Force Attack Investigation
 
-Status: In Progress
+Status: Completed
 
 ### Case Study 002
 
 Phishing Email Investigation
 
-Status: Planned
+Status: Completed
 
 ### Case Study 003
 
 Ransomware Incident Analysis
 
-Status: Planned
+Status: Completed
 
 ### Case Study 004
 
 Suspicious PowerShell Activity Investigation
 
-Status: Planned
+Status: Completed
 
 ## Author
 
