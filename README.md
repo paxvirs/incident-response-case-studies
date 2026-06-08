@@ -16,11 +16,11 @@ Each case study follows a structured incident response methodology including:
 
 ## Objectives
 
-1 Develop incident investigation skills
-2 Practice security event analysis
-3 Improve technical reporting
-4 Build a cybersecurity portfolio
-5 Simulate real-world SOC workflows
+* Develop incident investigation skills
+* Practice security event analysis
+* Improve technical reporting
+* Build a cybersecurity portfolio
+* Simulate real-world SOC workflows
 
 ## Case Studies
 
